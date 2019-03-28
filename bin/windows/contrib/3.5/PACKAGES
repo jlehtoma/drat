@@ -1,0 +1,6 @@
+Package: zdat
+Version: 0.1.0
+Suggests: devtools, drat
+License: CC BY-SA 4.0
+MD5sum: 0949323d6d0e2c875c20ca0752834862
+NeedsCompilation: no
